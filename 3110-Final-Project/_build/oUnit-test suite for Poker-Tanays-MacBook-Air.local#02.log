@@ -1,0 +1,78 @@
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:1:test suite for burn:0:a burned deck is not the same as original deck.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:1:test suite for burn:0:a burned deck is not the same as original deck is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:1:test suite for burn:0:a burned deck is not the same as original deck.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:4:test suite for deal_river:0:deal_river deals one card that is not in rest of deck.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:4:test suite for deal_river:0:deal_river deals one card that is not in rest of deck is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:4:test suite for deal_river:0:deal_river deals one card that is not in rest of deck.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:6:test suite for get_suit:0:suit of ace of spades is spades.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:6:test suite for get_suit:0:suit of ace of spades is spades is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:6:test suite for get_suit:0:suit of ace of spades is spades.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:8:test suite for make_deck:0:make_deck creates a standard deck (or a card list of len 52).
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:8:test suite for make_deck:0:make_deck creates a standard deck (or a card list of len 52) is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:8:test suite for make_deck:0:make_deck creates a standard deck (or a card list of len 52).
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:9:test suite for deal:1:The first card dealt is different than the second card dealt.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:9:test suite for deal:1:The first card dealt is different than the second card dealt is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:9:test suite for deal:1:The first card dealt is different than the second card dealt.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:10:test suite for shuffle:0:a shuffled deck is different than its original deck.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:10:test suite for shuffle:0:a shuffled deck is different than its original deck is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:10:test suite for shuffle:0:a shuffled deck is different than its original deck.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:11:test suite for print_card:0:suit - 1, rank - 1.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:11:test suite for print_card:0:suit - 1, rank - 1 is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:11:test suite for print_card:0:suit - 1, rank - 1.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:13:Straight Flush.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:13:Straight Flush is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:13:Straight Flush.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:15:Full House.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:15:Full House is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:15:Full House.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:17:Straight.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:17:Straight is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:17:Straight.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:19:Two pair.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:19:Two pair is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:19:Two pair.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:21:High card.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:21:High card is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:21:High card.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:23:Scenario 2 - (Hand: KS, 3S; Board: 3H, 3C, KH, 2S, 8D) -> Full House.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:23:Scenario 2 - (Hand: KS, 3S; Board: 3H, 3C, KH, 2S, 8D) -> Full House is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:23:Scenario 2 - (Hand: KS, 3S; Board: 3H, 3C, KH, 2S, 8D) -> Full House.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:25:Scenario 4 - Hand: 6S, 5C; Board: 5S, 6C, 7S.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:25:Scenario 4 - Hand: 6S, 5C; Board: 5S, 6C, 7S is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:25:Scenario 4 - Hand: 6S, 5C; Board: 5S, 6C, 7S.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:27:Scenario 6 - Hand: 3S, 2S ; Board: 4C, 2C, 5D, KC, 6D.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:27:Scenario 6 - Hand: 3S, 2S ; Board: 4C, 2C, 5D, KC, 6D is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:27:Scenario 6 - Hand: 3S, 2S ; Board: 4C, 2C, 5D, KC, 6D.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:29:Scenario 8 - Hand: 7S, AS ; Board: 9S, 3C, 7C, 7H, 4S.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:29:Scenario 8 - Hand: 7S, AS ; Board: 9S, 3C, 7C, 7H, 4S is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:29:Scenario 8 - Hand: 7S, AS ; Board: 9S, 3C, 7C, 7H, 4S.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:31:Scenario 10 - Hand: 9C, 8D ; Board: 10D, QD, 5S, 4D, JH.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:31:Scenario 10 - Hand: 9C, 8D ; Board: 10D, QD, 5S, 4D, JH is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:31:Scenario 10 - Hand: 9C, 8D ; Board: 10D, QD, 5S, 4D, JH.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:33:Scenario 12 - Board: 4C, 10H, 8H, 2H, KD ; Hand: 8C, 10D  -> Two Pair.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:33:Scenario 12 - Board: 4C, 10H, 8H, 2H, KD ; Hand: 8C, 10D  -> Two Pair is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:33:Scenario 12 - Board: 4C, 10H, 8H, 2H, KD ; Hand: 8C, 10D  -> Two Pair.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:34:Scenario 13 - Board: 6H, JS, 5H, 4S, 6D ; Hand: QC, QD  -> Two Pair.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:34:Scenario 13 - Board: 6H, JS, 5H, 4S, 6D ; Hand: QC, QD  -> Two Pair is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:34:Scenario 13 - Board: 6H, JS, 5H, 4S, 6D ; Hand: QC, QD  -> Two Pair.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:36:Scenario 15 - Board: 2C, 9C, 6D, 3D, 7C ; Hand: 6S, 6H   -> Three of a Kind .
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:36:Scenario 15 - Board: 2C, 9C, 6D, 3D, 7C ; Hand: 6S, 6H   -> Three of a Kind  is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:36:Scenario 15 - Board: 2C, 9C, 6D, 3D, 7C ; Hand: 6S, 6H   -> Three of a Kind .
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:38:Full house over a three of a kind.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:38:Full house over a three of a kind is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:38:Full house over a three of a kind.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:39:Straight over pair.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:39:Straight over pair is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:39:Straight over pair.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:41:Two pair worse than a flush.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:41:Two pair worse than a flush is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:41:Two pair worse than a flush.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:43:High card worse than pair.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:43:High card worse than pair is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:43:High card worse than pair.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:45:One straight flush higher than another.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:45:One straight flush higher than another is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:45:One straight flush higher than another.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Start test test suite for Poker:47:Higher three kind than other.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: Test test suite for Poker:47:Higher three kind than other is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#02 I: End test test suite for Poker:47:Higher three kind than other.

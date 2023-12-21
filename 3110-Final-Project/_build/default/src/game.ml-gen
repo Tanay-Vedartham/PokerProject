@@ -1,0 +1,30 @@
+(** @canonical Game.Action *)
+module Action = Game__Action
+
+
+(** @canonical Game.Board *)
+module Board = Game__Board
+
+
+(** @canonical Game.Deck *)
+module Deck = Game__Deck
+
+
+(** @canonical Game.Gamestate *)
+module Gamestate = Game__Gamestate
+
+
+(** @canonical Game.Hand *)
+module Hand = Game__Hand
+
+
+(** @canonical Game.Player *)
+module Player = Game__Player
+
+
+(** @canonical Game.Prompt *)
+module Prompt = Game__Prompt
+
+
+(** @canonical Game.Single *)
+module Single = Game__Single

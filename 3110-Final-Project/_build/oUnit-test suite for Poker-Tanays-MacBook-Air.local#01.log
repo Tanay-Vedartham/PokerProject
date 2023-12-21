@@ -1,0 +1,78 @@
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:0:test suite for deal_player:0:deal_player deals a hand (or a card list with len 2).
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:0:test suite for deal_player:0:deal_player deals a hand (or a card list with len 2) is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:0:test suite for deal_player:0:deal_player deals a hand (or a card list with len 2).
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:2:test suite for deal_flop:0:deal_flop deals a flop (or a card list with len 3.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:2:test suite for deal_flop:0:deal_flop deals a flop (or a card list with len 3 is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:2:test suite for deal_flop:0:deal_flop deals a flop (or a card list with len 3.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:3:test suite for deal_turn:0:deal_turn deals one card that is different from the card dealt from the burned deck.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:3:test suite for deal_turn:0:deal_turn deals one card that is different from the card dealt from the burned deck is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:3:test suite for deal_turn:0:deal_turn deals one card that is different from the card dealt from the burned deck.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:5:test suite for make_board:0:adding the flop to the board should yield three cards (or a list of len 3.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:5:test suite for make_board:0:adding the flop to the board should yield three cards (or a list of len 3 is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:5:test suite for make_board:0:adding the flop to the board should yield three cards (or a list of len 3.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:7:test suite for get_rank:0:rank of ace of spades is 1 (or an ace).
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:7:test suite for get_rank:0:rank of ace of spades is 1 (or an ace) is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:7:test suite for get_rank:0:rank of ace of spades is 1 (or an ace).
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:9:test suite for deal:0:trying to deal from an empty deck raises EmptyDeck .
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:9:test suite for deal:0:trying to deal from an empty deck raises EmptyDeck  is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:9:test suite for deal:0:trying to deal from an empty deck raises EmptyDeck .
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:9:test suite for deal:2:The post-deal deck is shorter than the pre-deal deck.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:9:test suite for deal:2:The post-deal deck is shorter than the pre-deal deck is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:9:test suite for deal:2:The post-deal deck is shorter than the pre-deal deck.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:10:test suite for shuffle:1:a shuffled deck is different than a shuffled deck from it.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:10:test suite for shuffle:1:a shuffled deck is different than a shuffled deck from it is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:10:test suite for shuffle:1:a shuffled deck is different than a shuffled deck from it.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:12:Royal Flush.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:12:Royal Flush is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:12:Royal Flush.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:14:Four of a kind.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:14:Four of a kind is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:14:Four of a kind.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:16:Flush.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:16:Flush is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:16:Flush.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:18:Three of a kind.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:18:Three of a kind is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:18:Three of a kind.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:20:Pair.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:20:Pair is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:20:Pair.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:22:Scenario 1 - (Hand: 9D, AD; Board: 7D, 8C, AS, 6H, 8H) -> Best Hand: (8C, 8H), (AD, AS).
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:22:Scenario 1 - (Hand: 9D, AD; Board: 7D, 8C, AS, 6H, 8H) -> Best Hand: (8C, 8H), (AD, AS) is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:22:Scenario 1 - (Hand: 9D, AD; Board: 7D, 8C, AS, 6H, 8H) -> Best Hand: (8C, 8H), (AD, AS).
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:24:Scenario 3 - (Hand: QC, 8C; Board: 8H, JD, 8D, 6D, 10C) -> Three of a Kind.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:24:Scenario 3 - (Hand: QC, 8C; Board: 8H, JD, 8D, 6D, 10C) -> Three of a Kind is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:24:Scenario 3 - (Hand: QC, 8C; Board: 8H, JD, 8D, 6D, 10C) -> Three of a Kind.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:26:Scenario 5 - Hand: QH, 10S; Board: 4S, 4C, QD, 3H, 10D.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:26:Scenario 5 - Hand: QH, 10S; Board: 4S, 4C, QD, 3H, 10D is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:26:Scenario 5 - Hand: QH, 10S; Board: 4S, 4C, QD, 3H, 10D.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:28:Scenario 7 - Hand: KD, 10S ; Board: QD, JD, 6H, 4D, 10D.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:28:Scenario 7 - Hand: KD, 10S ; Board: QD, JD, 6H, 4D, 10D is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:28:Scenario 7 - Hand: KD, 10S ; Board: QD, JD, 6H, 4D, 10D.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:30:Scenario 9 - Hand: 10D, QH; Board: KC, JD, 7S, 6H, AS .
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:30:Scenario 9 - Hand: 10D, QH; Board: KC, JD, 7S, 6H, AS  is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:30:Scenario 9 - Hand: 10D, QH; Board: KC, JD, 7S, 6H, AS .
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:32:Scenario 11 - Board: 2D, JH, 9C, 4S, 10D; Hand: 9D, AH -> Pair.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:32:Scenario 11 - Board: 2D, JH, 9C, 4S, 10D; Hand: 9D, AH -> Pair is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:32:Scenario 11 - Board: 2D, JH, 9C, 4S, 10D; Hand: 9D, AH -> Pair.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:35:Scenario 14 - Board: 10C, 10H, JS, KD, 8H ; Hand: 8C, JH   -> Two Pair .
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:35:Scenario 14 - Board: 10C, 10H, JS, KD, 8H ; Hand: 8C, JH   -> Two Pair  is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:35:Scenario 14 - Board: 10C, 10H, JS, KD, 8H ; Hand: 8C, JH   -> Two Pair .
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:37:Royal flush over four of a kind.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:37:Royal flush over four of a kind is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:37:Royal flush over four of a kind.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:40:Pair over high card.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:40:Pair over high card is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:40:Pair over high card.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:42:Three of a kind worse than straight flush.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:42:Three of a kind worse than straight flush is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:42:Three of a kind worse than straight flush.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:44:Same hands are equal with three kind.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:44:Same hands are equal with three kind is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:44:Same hands are equal with three kind.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:46:One full house has higher two pair than other.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:46:One full house has higher two pair than other is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:46:One full house has higher two pair than other.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Start test test suite for Poker:48:high card better than other.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: Test test suite for Poker:48:high card better than other is successful.
+2022-12-14T18:43:13+00:00 Tanays-MacBook-Air.local#01 I: End test test suite for Poker:48:high card better than other.
